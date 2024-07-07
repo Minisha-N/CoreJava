@@ -17,6 +17,7 @@ public class MethodOverloading {
 		Adder a1=new Adder();
 		System.out.println(a1.add(3,4));
 		System.out.println(a1.add(3,5,4));
+		System.out.println(a1.add(3,5,8));
 		System.out.println(a1.add(3.3f,5.5f));
 	}
 }
