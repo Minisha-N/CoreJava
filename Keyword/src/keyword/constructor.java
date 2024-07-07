@@ -6,7 +6,7 @@ class Animaal{
 	}
 	
 }
-class Dogg extends Animal{
+class Dogg extends Animaal{
 	Dogg(){
 		super();
 		System.out.println("Dog constructor");
