@@ -8,6 +8,9 @@ class Tiger extends Animaaal{
 class monkey extends Animaaal{
 	
 }
+class deer extends Animaaal{
+	
+}
 
 public class HierarchialInheritance {
 public static void main(String args[]) {
